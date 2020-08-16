@@ -1,4 +1,5 @@
 # Coupler une box 4G avec une Freebox
+
 Nous allons voir comment coupler la connexion de votre box fibre, adsl, vdsl, vdsl2 !
 Pour cela il vous faut une box ou routeur 4G avec une carte sim avec la 4G illimitée.
 Le résultat attendu bien sur est un vrai gain de débit !!!
@@ -6,6 +7,7 @@ Pour les plus expert d'entre vous vous pouvez optimiser votre connexion en prena
 Vous pouvez aussi avec votre routeur 4G le relier à une antenne 4G extérieur puis orienter celle-ci vers l'antenne relais 4G la plus proche de votre domicile.
 
 ## Préparation
+
 Il faut accéder aux différentes interfaces d'administration.
 
 ```console
@@ -13,7 +15,7 @@ Il faut accéder aux différentes interfaces d'administration.
 - Toutes Freebox : http://mafreebox.freebox.fr
 ```
 
-## Paramétrages
+### Paramétrages
 
 - Configuration à mettre sur votre box 4G
 
@@ -37,10 +39,12 @@ Il faut accéder aux différentes interfaces d'administration.
 - Désactiver la fonction wifi de votre Freebox
 ```
 
-## Connexion des deux box
+### Connexion des deux box
+
 Il faut connecter un cable rj45 si possible de catégorie 6 depuis un port lan de votre freebox vers le port wan de votre box 4G
 
-## Paramétrer vos machines (pas obligatoire)
+### Paramétrer vos machines (pas obligatoire)
+
 Dans les réglages de vos machines du réseau, vous pouvez leur attribuer les paramétres suivants :
 
 ```console
