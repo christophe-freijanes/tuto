@@ -15,7 +15,7 @@ Il faut accéder aux différentes interfaces d'administration.
 - Toutes Freebox : http://mafreebox.freebox.fr
 ```
 
-### Paramétrages
+## Configuration
 
 - Configuration à mettre sur votre box 4G
 
