@@ -13,7 +13,7 @@ Il faut accéder aux différentes interfaces d'administration.
 - Toutes Freebox : http://mafreebox.freebox.fr
 ```
 
-## Paramétrage
+## Paramétrages
 Contrôler ou modifier les paramètres IP de votre box 4G et de votre Freebox.
 Depuis l'interface Freebox OS, il faut attribuer la plage d'IP par le DHCP de votre Freebox ainsi nous allons pouvoir répliquer la même configuration sur votre 4G box.
 
