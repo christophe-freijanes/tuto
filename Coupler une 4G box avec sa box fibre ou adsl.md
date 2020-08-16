@@ -1,6 +1,6 @@
-# Coupler la 4G box et la Freebox Révolution
-Nous allons voir comment coupler la connexion de votre box fibre, adsl, vadsl avec une box 4G fait avec un routeur 4G et une carte sim avec la 4G illimité.
-Le résultat attendu bien sur est un vrai gain de débit, pour les plus expert d'entre vous vous pouvez optimiser votre connexion en prenant un amplificateur 4G.
+# Coupler une box 4G et la Freebox Révolution
+Nous allons voir comment coupler la connexion de votre box fibre, adsl, vdsl, vdsl2 avec une box ou routeur 4G avec une carte sim avec la 4G illimitée.
+Le résultat attendu bien sur est un vrai gain de débit, pour les plus expert d'entre vous vous pouvez optimiser votre connexion en prenant un amplificateur 4G et en reliant votre routeur 4G avec une antenne extérieur vers l'antenne relai 4G la plus proche de votre domicile.
 
 ## Préparation
 Il faut accéder aux différentes interfaces d'administration
