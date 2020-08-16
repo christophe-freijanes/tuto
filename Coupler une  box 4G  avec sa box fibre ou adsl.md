@@ -40,7 +40,6 @@ Il faut accéder aux différentes interfaces d'administration.
 ```
 
 ### Connexion des deux box
-
 Il faut connecter un cable rj45 si possible de catégorie 6 depuis un port lan de votre freebox vers le port wan de votre box 4G
 
 ### Paramétrer vos machines (pas obligatoire)
